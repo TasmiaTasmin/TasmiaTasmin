@@ -2,7 +2,7 @@
 
 #### Bio
 
-- 🔭 I'm currently working at **Enlight Solutions Bangladesh**
+- 🔭 I'm currently working at **BacBon Limited**(https://www.bacbonltd.com/)
 - ⚙️ I use daily: `.html`, `.css`, `.ts`, `.cs`
 - 🌱 Learning all about **React**
 - 👨‍💻 All of my projects are available at [TasmiaTasmin](https://github.com/TasmiaTasmin?tab=repositories)
