@@ -1,4 +1,4 @@
-### Hi 👋, I'm a Software Developer Intern working in Dhaka, Bangladesh
+### Hi 👋, I'm a Junior Software Engineer working in Dhaka, Bangladesh
 
 #### Bio
 
