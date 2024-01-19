@@ -1,4 +1,4 @@
-### Hi 👋, I'm a Junior Software Engineer working in Dhaka, Bangladesh
+### Hi 👋, I'm a Backend Engineer working in Dhaka, Bangladesh
 
 #### Bio
 
